@@ -1,0 +1,15 @@
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpInheritance\bin\Debug\net6.0\CSharpInheritance.exe
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpInheritance\bin\Debug\net6.0\CSharpInheritance.deps.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpInheritance\bin\Debug\net6.0\CSharpInheritance.runtimeconfig.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpInheritance\bin\Debug\net6.0\CSharpInheritance.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpInheritance\bin\Debug\net6.0\ref\CSharpInheritance.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpInheritance\bin\Debug\net6.0\CSharpInheritance.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpInheritance\obj\Debug\net6.0\CSharpInheritance.csproj.AssemblyReference.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpInheritance\obj\Debug\net6.0\CSharpInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpInheritance\obj\Debug\net6.0\CSharpInheritance.AssemblyInfoInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpInheritance\obj\Debug\net6.0\CSharpInheritance.AssemblyInfo.cs
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpInheritance\obj\Debug\net6.0\CSharpInheritance.csproj.CoreCompileInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpInheritance\obj\Debug\net6.0\CSharpInheritance.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpInheritance\obj\Debug\net6.0\ref\CSharpInheritance.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpInheritance\obj\Debug\net6.0\CSharpInheritance.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpInheritance\obj\Debug\net6.0\CSharpInheritance.genruntimeconfig.cache
